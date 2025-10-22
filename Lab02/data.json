@@ -1,0 +1,17 @@
+{
+    "chart_title": "Sample Chart Data",
+    "data_points": [
+        {
+            "label": "Item A",
+            "value": 15
+        },
+        {
+            "label": "Item B",
+            "value": 30
+        },
+        {
+            "label": "Item C",
+            "value": 22
+        }
+    ]
+}
