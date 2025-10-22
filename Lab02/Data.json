@@ -1,0 +1,7 @@
+{
+  "study_energy_effects": {
+    "Low-med": 0.31,
+    "Med-High": 0.47
+  },
+  "chart_title": "Energy Level improvement for different exercise groups"
+}
