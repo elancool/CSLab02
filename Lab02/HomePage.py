@@ -31,5 +31,5 @@ This project is part of CS 1301's Lab 2.
 # 2. Place your image file (e.g., 'welcome_image.png') inside that folder.
 # 3. Uncomment the line below and change the filename to match yours.
 #
-st.image("images/pfp.jpg", width=300)
+st.image("Lab02/images/pfp.jpg", width=300)
 st.write("Elan Mcclain, creator of this app")
